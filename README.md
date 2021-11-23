@@ -334,12 +334,28 @@ http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/96
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/163
 #EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/8SaJVC7.png",SP: Star Sports 1 HD
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/43
+#EXTINF:-1 group-title="Sports" tvg-logo="",SP: T Sports
+http://tv.alphamediazone.com:8089/thunderbd/1/index.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/MZItawT.png",SP: Sky Cricket HD
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/146
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/x2Pz8Wa.jpg",SP: SkySports Main
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/175
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png",SP: Star Sports HD
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/48
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png",SP: Star Sports 1 HD
+http://tv.alphamediazone.com:8089/thunderbd/25/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png",SP: Star Sports 2 
+http://tv.alphamediazone.com:8089/thunderbd/26/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",SP: Star Sports Select 1
+http://tv.alphamediazone.com:8089/thunderbd/27/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 Hindi
+https://236s.short.gy/DreamTV/ChSP1.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",SP: T Sports
+http://tv.alphamediazone.com:8089/thunderbd/1/index.m3u8
+
+
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/z1uylx3.png",SP: Willow Cricket
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/133
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/5m6QkGS.jpg",SP: Astro Cricket
