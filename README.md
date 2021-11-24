@@ -1,5 +1,4 @@
 # Iptv-for-my-home
-# Iptv-for-my-home
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://scontent.fjsr8-1.fna.fbcdn.net/v/t1.6435-9/224742918_1719985508193751_117441876561677137_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEdyVdQwd10SVDfHTgDby4xsw4hmGMgM-KzDiGYYyAz4jJGCMG36pCw-fwAXMhPT4iGs7SJtVNZ6Jd3r44iylf8&_nc_ohc=EoP0MBj_MooAX_svjz9&_nc_ht=scontent.fjsr8-1.fna&oh=0c1ec4d5b6ae6956d1e159eea051e0d3&oe=61A0CB32" group-title="",NAZMUL WI-FI ZONE
 https://rebrand.ly/livetv420
@@ -66,15 +65,13 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://89.187.185.89:3232/ban-duronto/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/2cpHJKq.png",Nagorik TV
 https://last.gcdn.co/IND433/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/Tp3Kead.png",Enter 10 Bangla
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Bangla",Enter 10 Bangla
 http://14.199.164.20:4001/play/a0j5/index.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/9d1xXjN.png",Star Jalsha HD
-https://last.gcdn.co/IND391/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/2PQfcOh.png",Jalsha Movies HD
+#EXTINF:-1 group-title="Bangl" tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Bangla",Jalsha Movies HD
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3412
-#EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" , Zee Bangla
+#EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png"  group-title="Bangla", Zee Bangla
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3409.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" , Sony Aath 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" , group-title="Bangla", Sony Aath 
 http://mangostv.ddns.net/iptv/SNZC9Z4RPEYGA3/6641/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla", Colors Bangla HD
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3415.m3u8
@@ -791,11 +788,11 @@ http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/327
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/H1Zhd0Z.png",SP: Sony Six
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/65
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/8R9g1yY.jpg",SP: Sony Ten 1
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/144
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/175
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/lKa6ITU.jpg",SP: Sony Ten 2
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/134
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/172
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/CIPt60Y.png",SP: Sony Ten 3
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/126
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/173
 #EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/GOZWZ19.png",SP: Geo Super
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/97
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/sFaXJPI.png",SP: Sky Premier
